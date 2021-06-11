@@ -1,0 +1,17 @@
+body{
+  font-family: roboto, sans-serif;
+  text-align: center;
+  background: rgb(181,255,0);
+background: linear-gradient(90deg, rgba(181,255,0,1) 0%, rgba(13,121,9,0.7203256302521008) 46%, rgba(0,255,4,1) 100%);
+}
+img{
+  width: 500px;
+  height: 80px;
+}
+p{
+  font-size: 18px;
+  font-family: roboto, sans-serif;
+}
+background{
+  
+}
